@@ -1,0 +1,1 @@
+module.exports = require('/opt/node/current/lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson');
